@@ -97,7 +97,12 @@ If you find this repository useful, please refer to our paper:
 **Safe Continuous-time Multi-Agent Reinforcement Learning via Epigraph Form**  
 ICLR 2026  
 
-OpenReview:  
-https://openreview.net/forum?id=U6z5Y1htbe
-
+```bash
+@article{wang2026safe,
+  title={Safe Continuous-time Multi-Agent Reinforcement Learning via Epigraph Form},
+  author={Wang, Xuefeng and Zhang, Lei and Pu, Henglin and Li, Husheng and Qureshi, Ahmed H},
+  journal={arXiv preprint arXiv:2602.17078},
+  year={2026}
+}
+```
 ---
